@@ -2,3 +2,14 @@ C:\Users\erick.rgnjunior\source\repos\lista_01_exercicios\lista_01_exercicios\li
 C:\Users\erick.rgnjunior\source\repos\lista_01_exercicios\lista_01_exercicios\lista_02\obj\Debug\net8.0\lista_02.AssemblyInfoInputs.cache
 C:\Users\erick.rgnjunior\source\repos\lista_01_exercicios\lista_01_exercicios\lista_02\obj\Debug\net8.0\lista_02.AssemblyInfo.cs
 C:\Users\erick.rgnjunior\source\repos\lista_01_exercicios\lista_01_exercicios\lista_02\obj\Debug\net8.0\lista_02.csproj.CoreCompileInputs.cache
+C:\Users\erick.rgnjunior\source\repos\lista_01_exercicios\lista_01_exercicios\lista_02\obj\Debug\net8.0\lista_02.sourcelink.json
+C:\Users\erick.rgnjunior\source\repos\lista_01_exercicios\lista_01_exercicios\lista_02\bin\Debug\net8.0\lista_02.exe
+C:\Users\erick.rgnjunior\source\repos\lista_01_exercicios\lista_01_exercicios\lista_02\bin\Debug\net8.0\lista_02.deps.json
+C:\Users\erick.rgnjunior\source\repos\lista_01_exercicios\lista_01_exercicios\lista_02\bin\Debug\net8.0\lista_02.runtimeconfig.json
+C:\Users\erick.rgnjunior\source\repos\lista_01_exercicios\lista_01_exercicios\lista_02\bin\Debug\net8.0\lista_02.dll
+C:\Users\erick.rgnjunior\source\repos\lista_01_exercicios\lista_01_exercicios\lista_02\bin\Debug\net8.0\lista_02.pdb
+C:\Users\erick.rgnjunior\source\repos\lista_01_exercicios\lista_01_exercicios\lista_02\obj\Debug\net8.0\lista_02.dll
+C:\Users\erick.rgnjunior\source\repos\lista_01_exercicios\lista_01_exercicios\lista_02\obj\Debug\net8.0\refint\lista_02.dll
+C:\Users\erick.rgnjunior\source\repos\lista_01_exercicios\lista_01_exercicios\lista_02\obj\Debug\net8.0\lista_02.pdb
+C:\Users\erick.rgnjunior\source\repos\lista_01_exercicios\lista_01_exercicios\lista_02\obj\Debug\net8.0\lista_02.genruntimeconfig.cache
+C:\Users\erick.rgnjunior\source\repos\lista_01_exercicios\lista_01_exercicios\lista_02\obj\Debug\net8.0\ref\lista_02.dll

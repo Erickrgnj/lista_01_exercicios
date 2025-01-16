@@ -6,3 +6,13 @@ determine se ela é maior de idade (18 anos ou mais) ou menor de idade.
 Utilize if e else para mostrar a mensagem apropriada.
 o Exemplo de Saída: "Você é maior de idade." ou "Você é menor de idade."
  */
+Console.WriteLine("qual sua idade ");
+int numero = int.Parse(Console.ReadLine());
+if (numero >= 18)
+{
+    Console.WriteLine("maior de idade ");
+}
+else if (numero < 18)
+{
+    Console.WriteLine("menor de idade ");
+}

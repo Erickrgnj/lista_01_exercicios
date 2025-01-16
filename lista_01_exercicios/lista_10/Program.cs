@@ -7,3 +7,9 @@ no valor e mostre o valor final. Caso contrário, exiba o valor original.
 o Exemplo de Saída: "Valor com desconto: [valor final]." ou "Valor original:
 [valor]
  */
+Console.WriteLine("Digite um numero");
+int numero = int.Parse(Console.ReadLine());
+if (numero >= 100)
+{
+    Console.WriteLine($"cumpom aplicado valor final {numero * 0.90}");
+}
